@@ -1,6 +1,8 @@
 # Task
 
 Steps for Separating the Center Area from the image
+
+
 Load the Image – Read the input image using OpenCV and verify successful loading.
 Convert Color Formats – Convert the image from BGR to RGB for visualization and grayscale for processing.
 Apply Thresholding – Use binary inverse thresholding to distinguish the foreground object from the background.
