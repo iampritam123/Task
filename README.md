@@ -9,7 +9,7 @@
 
 **Apply Thresholding** – Use binary inverse thresholding to distinguish the foreground object from the background.
 
-**Find Contours **– Detect contours from the thresholded image and select the largest one, assuming it represents the main object.
+**Find Contours** – Detect contours from the thresholded image and select the largest one, assuming it represents the main object.
 
 **Define GrabCut Mask** – Initialize a mask and create background and foreground models for GrabCut.
 
