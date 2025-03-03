@@ -1,6 +1,6 @@
 # Task
 
-**STEPS FOR SEPARATING THE CENTER ARE FROM THE IMAGE**
+**STEPS FOR SEPARATING THE CENTER AREA FROM THE IMAGE**
 
 
 **Load the Image** – Read the input image using OpenCV and verify successful loading.
